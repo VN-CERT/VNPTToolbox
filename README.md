@@ -13,7 +13,7 @@ There are many ways to contribute to VNPTtoolbox.
 
 ## Screenshot
 
-![big screenshot](http://i.imgur.com/ACxZPtQ.png "Screenshot")
+![big screenshot](https://imgur.com/a/zW3aYz6 "Screenshot")
 
 ## How to install VNPTToolBox
 
