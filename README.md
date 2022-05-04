@@ -18,5 +18,5 @@ There are many ways to contribute to VNPTtoolbox.
 1. Dowload the **[latest release](https://github.com/VNPT-HCM/VNPTToolbox)** of VNPTtoolbox
 2. Upload the contents to your webserver enabled with PHP 5.3+
 3. Extract the contents of the zip file on your server to your desired directory.
-4. Navigate to index.html
+4. Navigate to index.php
 5. Enter in your domain and submit!
