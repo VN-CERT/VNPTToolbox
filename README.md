@@ -11,10 +11,6 @@ There are many ways to contribute to VNPTtoolbox.
 * **[Submit bugs](https://github.com/VNPT-HCM/VNPTToolbox)** and help us verify fixes as they are checked in.
 * Review **[source code changes](https://github.com/VNPT-HCM/VNPTToolbox)**.
 
-## Screenshot
-
-![big screenshot](https://imgur.com/a/zW3aYz6 "Screenshot")
-
 ## How to install VNPTToolBox
 
 * **Install manually**
